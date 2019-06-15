@@ -57,4 +57,23 @@ Coud you solve it without converting the integer to a string?
 
 
 
+2 R research  英文阅读
+http://spark.apache.org/docs/2.4.0/running-on-yarn.html
+Spark2.4.0官方文档 on yarn部分
+
+
+3 T title 小技巧
+Spark Submit给Main函数传递参数
+https://www.cnblogs.com/QuestionsZhang/p/10992967.html
+
+4 S share 分享一篇文章
+https://www.toutiao.com/a6696698112863371780/
+介绍了一个让开源算法动起来的项目
+
+
+
+
+
+
+
 
